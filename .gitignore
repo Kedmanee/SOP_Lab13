@@ -1,0 +1,3 @@
+# Project exclude paths
+/bookstore-service/target/
+/reading-service/target/
